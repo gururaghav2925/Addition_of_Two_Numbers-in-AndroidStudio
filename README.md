@@ -119,7 +119,7 @@ app/
 ```
 
 # MainActivity.java
-```
+```java
 package com.example.addition_application;
 
 import android.os.Bundle;
