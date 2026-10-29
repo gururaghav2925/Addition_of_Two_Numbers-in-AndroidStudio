@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exp4_Contentprovider</string>
+    <string name="contact_details_header">Contact Details:\n\n</string>
+    <string name="btn_get_contacts">GET CONTACTS</string>
+</resources>
